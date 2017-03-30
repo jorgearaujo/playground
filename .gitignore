@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/app/src/main/java/com/araujo/example/IgnoreTest.java
+app/src/main/java/com/araujo/example/SecondTest.java
